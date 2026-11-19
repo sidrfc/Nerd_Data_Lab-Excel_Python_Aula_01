@@ -1,6 +1,5 @@
 <div align="center">
 
-# 📊 NERD DATA LAB
 ### Da planilha ao Python · Amazing Data IA Lab
 
 **Aula 01 — Excel + Fundamentos de Python**
